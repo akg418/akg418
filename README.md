@@ -27,12 +27,14 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/falta_404/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
+  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/gom3a_">
-    <img src="https://skillicons.dev/icons?i=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 ---
