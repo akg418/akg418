@@ -16,16 +16,13 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/ahmed-khaled-gom3a">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ahmedkhaledgomaa404@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/akg418">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -38,34 +35,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 About Me:
-- 🔭 I’m currently working on Frontend Projects  
-- 🌱 I’m learning React & Next.js  
-- 💬 Ask me about Web Development  
-- ⚡ Fun fact: I love building UI animations ✨  
-
----
-
-## 🎯 Contact Me:
-📧 Email: YOUR_EMAIL  
-🌐 LinkedIn: YOUR_LINKEDIN  
-📷 Instagram: YOUR_INSTAGRAM  
-
----
-
-⭐ Thanks for visiting my profile!
