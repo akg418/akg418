@@ -39,9 +39,9 @@
 </p>
 
 ---
-## 🧠 Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,cpp,git,github,vscode,tailwind,firebase,mysql" />
-</p>
+## 🧠 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,java,python,nodejs,nestjs,express,postgres,mysql,redis,prisma,docker,git,github,linux,vscode" />
+</p>
 ---
