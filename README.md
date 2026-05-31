@@ -1,57 +1,71 @@
-# Hello there! 👋
+<h1 align="center">This is Ahmed Khaled</h1>
 
-## About Me
-I'm Ahmed Khaled, a computer science student at Helwan University, passionate about exploring the vast realm of computer science.
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Competitive+Programmer;Backend+Developer" />
+  </a>
+</p>
 
-### Areas of Focus
-- **Major:** Computer Science
-- **Programming Languages:** Currently diving into Java, Python, and Spring. Comfortable with C++
-- **Web Technologies:** Explored HTML, CSS, and JavaScript for some cool college projects
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-### Experience and Achievements
-- Participated in the ICPC competition
-- Proud Codeforces enthusiast
-- Passionate about algorithms and data structures
-- Competitive Programming and avid problem solver
+---
 
-### Learning Journey
-Currently, I'm actively learning:
-- Java and Spring
-- Python
-- Machine Learning (Excited to delve deeper into this field!)
+## 🌐 Socials:
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
-### Hobbies and Interests
-- Enjoy gaming on PlayStation
-- A devoted Valorant player
+---
 
-Fun Fact: Who knows, one day I might step into the gaming industry and contribute to the development of these amazing games!
+## 🧠 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,cpp,git,github,vscode,tailwind,firebase,mysql" />
+</p>
 
-### Connect with Me
-- **LinkedIn:** [Ahmed Khaled](https://www.linkedin.com/in/ahmed-khaled-01ba9b222/)
-- **Codeforces:** [_GOM3A_](https://codeforces.com/profile/_GOM3A_)
+---
 
-### What's Next
-Excited to delve into backend development soon!
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-Let's connect and explore the endless possibilities of the coding world together! 🚀
+---
 
+## 🔥 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
+## 🚀 About Me:
+- 🔭 I’m currently working on Frontend Projects  
+- 🌱 I’m learning React & Next.js  
+- 💬 Ask me about Web Development  
+- ⚡ Fun fact: I love building UI animations ✨  
 
+---
 
+## 🎯 Contact Me:
+📧 Email: YOUR_EMAIL  
+🌐 LinkedIn: YOUR_LINKEDIN  
+📷 Instagram: YOUR_INSTAGRAM  
 
+---
 
-<!--
-**Ahmedkhalid404/Ahmedkhalid404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
