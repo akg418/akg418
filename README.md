@@ -1,43 +1,47 @@
-<h1 align="center">Ahmed Khaled</h1>
+<h1 align="center">This is Ahmed Khaled</h1>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00F7FF&width=600&lines=Software+Engineer;Competitive+Programmer;Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Competitive+Programmer;Backend+Developer" />
   </a>
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akg418&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
-
 ## 🌐 Socials:
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/ahmed-khaled-gom3a">
-    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="mailto:ahmedkhaledgomaa404@gmail.com">
-    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
   <a href="https://github.com/akg418">
-    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
+  <!-- LeetCode  -->
   <a href="https://leetcode.com/u/falta_404/">
-    <img width="55" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" />
+    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
   </a>
 
+  <!-- Codeforces  -->
   <a href="https://codeforces.com/profile/gom3a_">
-    <img width="55" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" />
+    <img width="60" src="https://camo.githubusercontent.com/26697e2204e020f9556314f0145bb3493283a2d6604de0e0f58cd49ae68a291c/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635256653276344b674d516a45696f627076444a556e48414f49414645746f6d656c7074672673" />
   </a>
 </p>
-
 ---
 
 ## 🧠 Tech Stack:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,express,react,nextjs,html,css,git,github,vscode,mysql,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,cpp,git,github,vscode,tailwind,firebase,mysql" />
 </p>
 
+---
