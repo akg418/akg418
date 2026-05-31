@@ -13,34 +13,6 @@
 </p>
 
 ---
-## 🎯 Find the Ball Game
-
-<p align="center">Choose a cup 👇</p>
-
-<p align="center">
-  <a href="#wrong">
-    <img src="https://img.shields.io/badge/🥤 Cup%201-blue?style=for-the-badge" />
-  </a>
-  <a href="#correct">
-    <img src="https://img.shields.io/badge/🥤 Cup%202-blue?style=for-the-badge" />
-  </a>
-  <a href="#wrong">
-    <img src="https://img.shields.io/badge/🥤 Cup%203-blue?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<a id="wrong"></a>
-## ❌ Nope!
-You picked the wrong cup 😅 Try again!
-
----
-
-<a id="correct"></a>
-## 🎉 Congratulations!
-You found the ball 🏀🔥
----
 ## 🌐 Socials:
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-khaled-gom3a">
