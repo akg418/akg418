@@ -37,8 +37,8 @@
     <img width="60" src="https://camo.githubusercontent.com/26697e2204e020f9556314f0145bb3493283a2d6604de0e0f58cd49ae68a291c/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635256653276344b674d516a45696f627076444a556e48414f49414645746f6d656c7074672673" />
   </a>
 </p>
----
 
+---
 ## 🧠 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,cpp,git,github,vscode,tailwind,firebase,mysql" />
