@@ -14,7 +14,7 @@
 
 ---
 ## 🌐 Socials:
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/ahmed-khaled-gom3a">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -40,7 +40,7 @@
 ---
 
 ## 🧠 Tech Stack:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,cpp,git,github,vscode,tailwind,firebase,mysql" />
 </p>
 
