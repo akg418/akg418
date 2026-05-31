@@ -18,14 +18,23 @@
   <a href="https://linkedin.com/in/ahmed-khaled-gom3a">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="mailto:ahmedkhaledgomaa404@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
   <a href="https://github.com/akg418">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
 
+  <a href="https://leetcode.com/u/falta_404/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+
+  <a href="https://codeforces.com/profile/gom3a_">
+    <img src="https://skillicons.dev/icons?i=codeforces" />
+  </a>
+</p>
 ---
 
 ## 🧠 Tech Stack:
