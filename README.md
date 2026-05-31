@@ -14,6 +14,59 @@
 
 ---
 
+## 🎮 Shell Game - Find the Ball 🏀
+
+<p align="center">
+  <b>One of these cups hides the ball... refresh to shuffle!</b>
+</p>
+
+---
+
+<p align="center">
+
+<!-- CUP 1 -->
+<a href="#result1">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
+</a>
+
+<!-- CUP 2 (HIDDEN BALL RANDOM FEEL) -->
+<a href="#result2">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="120"/>
+</a>
+
+<!-- CUP 3 -->
+<a href="#result3">
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="120"/>
+</a>
+
+</p>
+
+---
+
+## 🧠 How it works?
+- Click a cup and see if the ball is there 🎯  
+- Refresh the page to "shuffle" the cups 🔄  
+- Try your luck 🍀  
+
+---
+
+<a id="result1"></a>
+## ❌ Wrong Cup!
+No ball here 😅 Try again!
+
+---
+
+<a id="result2"></a>
+## 🎉 You Win!
+You found the ball 🏀🔥
+
+---
+
+<a id="result3"></a>
+## ❌ Wrong Cup!
+No ball here 😅 Try again!
+
+---
 ## 🌐 Socials:
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-khaled-gom3a">
