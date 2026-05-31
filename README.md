@@ -27,14 +27,14 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <!-- LeetCode -->
+  <!-- LeetCode  -->
   <a href="https://leetcode.com/u/falta_404/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
   </a>
 
-  <!-- Codeforces -->
+  <!-- Codeforces  -->
   <a href="https://codeforces.com/profile/gom3a_">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img width="60" src="https://camo.githubusercontent.com/26697e2204e020f9556314f0145bb3493283a2d6604de0e0f58cd49ae68a291c/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635256653276344b674d516a45696f627076444a556e48414f49414645746f6d656c7074672673" />
   </a>
 </p>
 ---
