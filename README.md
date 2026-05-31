@@ -1,7 +1,7 @@
-<h1 align="left">Ahmed Khaled</h1>
+<h1 align="center">Ahmed Khaled</h1>
 
 <!-- Typing Animation -->
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00F7FF&width=600&lines=Software+Engineer;Competitive+Programmer;Backend+Developer" />
   </a>
