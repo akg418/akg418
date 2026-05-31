@@ -7,6 +7,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://your-cv-link.com">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20CV-blue?style=for-the-badge" />
+  </a>
+</p>
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akg418&label=Profile%20views&color=0e75b6&style=flat" />
@@ -44,4 +50,4 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,java,python,nodejs,nestjs,express,postgres,mysql,redis,prisma,docker,git,github,linux,vscode" />
 </p>
----
+
