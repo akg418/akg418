@@ -13,59 +13,33 @@
 </p>
 
 ---
+## 🎯 Find the Ball Game
 
-## 🎮 Shell Game - Find the Ball 🏀
+<p align="center">Choose a cup 👇</p>
 
 <p align="center">
-  <b>One of these cups hides the ball... refresh to shuffle!</b>
+  <a href="#wrong">
+    <img src="https://img.shields.io/badge/🥤 Cup%201-blue?style=for-the-badge" />
+  </a>
+  <a href="#correct">
+    <img src="https://img.shields.io/badge/🥤 Cup%202-blue?style=for-the-badge" />
+  </a>
+  <a href="#wrong">
+    <img src="https://img.shields.io/badge/🥤 Cup%203-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-
-<!-- CUP 1 -->
-<a href="#result1">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
-</a>
-
-<!-- CUP 2 (HIDDEN BALL RANDOM FEEL) -->
-<a href="#result2">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="120"/>
-</a>
-
-<!-- CUP 3 -->
-<a href="#result3">
-  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="120"/>
-</a>
-
-</p>
+<a id="wrong"></a>
+## ❌ Nope!
+You picked the wrong cup 😅 Try again!
 
 ---
 
-## 🧠 How it works?
-- Click a cup and see if the ball is there 🎯  
-- Refresh the page to "shuffle" the cups 🔄  
-- Try your luck 🍀  
-
----
-
-<a id="result1"></a>
-## ❌ Wrong Cup!
-No ball here 😅 Try again!
-
----
-
-<a id="result2"></a>
-## 🎉 You Win!
+<a id="correct"></a>
+## 🎉 Congratulations!
 You found the ball 🏀🔥
-
----
-
-<a id="result3"></a>
-## ❌ Wrong Cup!
-No ball here 😅 Try again!
-
 ---
 ## 🌐 Socials:
 <p align="center">
