@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-cv-link.com">
+  <a href="[https://your-cv-link.com](https://drive.google.com/drive/folders/1f1RdcHVjX5iOhlRSjPa2McB0ZXaRS4l3?usp=drive_link)">
     <img src="https://img.shields.io/badge/📄%20Resume-View%20CV-blue?style=for-the-badge" />
   </a>
 </p>
