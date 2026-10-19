@@ -10,7 +10,7 @@
   <a href="https://drive.google.com/drive/folders/1f1RdcHVjX5iOhlRSjPa2McB0ZXaRS4l3?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0A0F1F?style=for-the-badge&logo=googledrive&logoColor=A78BFA" alt="Resume" /></a>
 </p>
 
-<img src="./assets/stats.svg" width="100%" alt="15,000+ users · ~20 microservices · 2000+ problems · 7m → 9s" />
+<a href="https://portfolio-akg418.vercel.app/"><img src="./assets/stats.svg" width="100%" alt="15,000+ users · ~20 microservices · 2000+ problems · 7m → 9s" /></a>
 
 ## `> about`
 
@@ -80,10 +80,10 @@ Off the clock: competitive programmer, **ACPC Finalist**, and problem setter for
 ## `> stack`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,flask,spring,dotnet&theme=dark" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,prisma&theme=dark" alt="Data" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux,jest,react,tailwind&theme=dark" alt="DevOps & tools" />
+  <a href="https://portfolio-akg418.vercel.app/"><img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,java&theme=dark" alt="Languages" /></a><br/>
+  <a href="https://portfolio-akg418.vercel.app/"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,flask,spring,dotnet&theme=dark" alt="Backend" /></a><br/>
+  <a href="https://portfolio-akg418.vercel.app/"><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,prisma&theme=dark" alt="Data" /></a><br/>
+  <a href="https://portfolio-akg418.vercel.app/"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux,jest,react,tailwind&theme=dark" alt="DevOps & tools" /></a>
 </p>
 
 ## `> competitive`
@@ -96,10 +96,10 @@ Off the clock: competitive programmer, **ACPC Finalist**, and problem setter for
 ## `> activity`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akg418&hide_border=true&background=0D1326&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&stroke=1E293B" width="100%" alt="GitHub streak" />
+  <a href="https://github.com/akg418?tab=repositories"><img src="https://streak-stats.demolab.com?user=akg418&hide_border=true&background=0D1326&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&stroke=1E293B" width="100%" alt="GitHub streak" /></a>
 </p>
 
-<a href="mailto:ahmedkhaledgomaa404@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ahmedkhaledgomaa404@gmail.com&amp;su=Hi%20Ahmed">
   <img src="./assets/footer.svg" width="100%" alt="Let's build something — ahmedkhaledgomaa404@gmail.com" />
 </a>
 
