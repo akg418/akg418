@@ -98,9 +98,6 @@ Off the clock: competitive programmer, **ACPC Finalist**, and problem setter for
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akg418&hide_border=true&background=0D1326&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&stroke=1E293B" width="100%" alt="GitHub streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg418&hide_border=true&area=true&bg_color=0D1326&color=CBD5E1&line=22D3EE&point=A78BFA&area_color=22D3EE&title_color=22D3EE" width="100%" alt="Contribution graph" />
-</p>
 
 <a href="mailto:ahmedkhaledgomaa404@gmail.com">
   <img src="./assets/footer.svg" width="100%" alt="Let's build something — ahmedkhaledgomaa404@gmail.com" />
