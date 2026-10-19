@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://portfolio-akg418.vercel.app/"><img src="https://img.shields.io/badge/ahmed.dev-0A0F1F?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ahmed-khaled-gom3a"><img src="https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
-  <a href="mailto:ahmedkhaledgomaa404@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1F?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ahmed-khaled-gom3a"><img src="https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzIyRDNFRSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uODg3IDEuNjM3LTEuODI4IDMuMzctMS44MjggMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjY0ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="https://codeforces.com/profile/gom3a_"><img src="https://img.shields.io/badge/Codeforces-0A0F1F?style=for-the-badge&logo=codeforces&logoColor=A78BFA" alt="Codeforces" /></a>
   <a href="https://leetcode.com/u/falta_404/"><img src="https://img.shields.io/badge/LeetCode-0A0F1F?style=for-the-badge&logo=leetcode&logoColor=A78BFA" alt="LeetCode" /></a>
   <a href="https://drive.google.com/drive/folders/1f1RdcHVjX5iOhlRSjPa2McB0ZXaRS4l3?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0A0F1F?style=for-the-badge&logo=googledrive&logoColor=A78BFA" alt="Resume" /></a>
@@ -97,8 +96,7 @@ Off the clock: competitive programmer, **ACPC Finalist**, and problem setter for
 ## `> activity`
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akg418&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1326&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&ring_color=22D3EE" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akg418&layout=compact&hide_border=true&langs_count=8&bg_color=0D1326&title_color=22D3EE&text_color=CBD5E1" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=akg418&hide_border=true&background=0D1326&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&stroke=1E293B" width="100%" alt="GitHub streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg418&hide_border=true&area=true&bg_color=0D1326&color=CBD5E1&line=22D3EE&point=A78BFA&area_color=22D3EE&title_color=22D3EE" width="100%" alt="Contribution graph" />
